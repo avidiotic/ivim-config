@@ -2,6 +2,8 @@
 
 This repo contains the configuration that I use on [iVim](https://github.com/terrychou/iVim) running on my iPad. Due to the nature of iVim, the configuration might not work similarly on other versions of Vim.
 
+![Screenshot editing `.vimrc`](screenshot.png)
+
 ### Contents
 
 * `.vimrc` file
