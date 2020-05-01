@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 2eddf67e7da9363587d775436f69f1928b9ecaa1 Avi Agarwal <avi.agarwal@reventics.com> 1585403903 +0530	commit (initial): Added .vimrc, list of plugins and patched fonts
+2eddf67e7da9363587d775436f69f1928b9ecaa1 6684d9879a66290c880df40f08e36dc5c2cedcc6 Avi Agarwal <avi.agarwal@reventics.com> 1585404047 +0530	commit: Added colorscheme
+6684d9879a66290c880df40f08e36dc5c2cedcc6 4cc64d76cc7caf4bb4285e81a443894835639307 Avi Agarwal <avi.agarwal@reventics.com> 1585406097 +0530	commit: Fixed color scheme file
+4cc64d76cc7caf4bb4285e81a443894835639307 0dbaede486e580a3371d112ce6e4ca0996c8b1e1 Avi Agarwal <avi.agarwal@reventics.com> 1585415908 +0530	commit: Updated README
+0dbaede486e580a3371d112ce6e4ca0996c8b1e1 6f96344dbbdf1bdc4be4b0b500b8de6d50bdac6a Avi Agarwal <avi.agarwal@reventics.com> 1585416963 +0530	commit: Added screenshot
+6f96344dbbdf1bdc4be4b0b500b8de6d50bdac6a 1efd7ebeb5707eb38f17be244d127883c050449a Avi Agarwal <avi.agarwal@reventics.com> 1585550037 +0530	commit: Added shortcuts cheatsheet
+1efd7ebeb5707eb38f17be244d127883c050449a fed512ee277f1a3b1ec116c83d4a9f657f346106 Avi Agarwal <avi.agarwal@reventics.com> 1585551929 +0530	commit: Added incsearch shortcuts
